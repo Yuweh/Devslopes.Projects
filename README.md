@@ -11,3 +11,5 @@ Project 02 - Swoosh App (AutoLayout, Segues, Optionals, IBActions)
 Project 03 - Dev Profile
 
 Project 04 - Shoppee (MVC Pattern + Algo/Calculate)
+
+Project 05 - Dev Shop (MVC Pattern + DataService)
