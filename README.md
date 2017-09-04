@@ -8,7 +8,7 @@ Project 01 - Hustle App (Animation + AVFoundation)
 
 Project 02 - Swoosh App (AutoLayout, Segues, Optionals, IBActions)
 
-Project 03 - Dev Profile
+Project 03 - Dev Profile (AutoLaytout for all devices)
 
 Project 04 - Shoppee (MVC Pattern + Algo/Calculate)
 
